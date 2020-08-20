@@ -1,0 +1,4 @@
+client.on('ready',  () => {
+console.log(`Iam Ready Go Man`)
+client.user.setStatus("idle"); //حط الحالة هنا
+});
